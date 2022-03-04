@@ -4,7 +4,9 @@
 
 # 文件概述
 
-XXXXUsername.json 角色ID到角色名的映射
-XXXXTradeLog.json 交易日志
-XXXXMarketRecord.json 市场订单汇总
-XXXXOrdersSnapshot.json 市场快照（当时所有市场订单）
+| 名称                      | 内容             |
+| ----------------------- | -------------- |
+| XXXXUsername.json       | 角色ID到角色名的映射    |
+| XXXXTradeLog.json       | 交易日志           |
+| XXXXMarketRecord.json   | 市场订单汇总         |
+| XXXXOrdersSnapshot.json | 市场快照（当时所有市场订单） |
